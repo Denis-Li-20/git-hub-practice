@@ -1,8 +1,1 @@
-"Snow" by RHCP
-"???????" by 3038
-"Record Megamix" by Radio Record
-New line
-New line
-
-
-Change in the github txt
+Removed all lines
